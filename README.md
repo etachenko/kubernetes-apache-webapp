@@ -1,11 +1,6 @@
 ## Apache Web Application on Kubernetes
-  This README proposes a step-by-step method for an Apache web application min-project deployed using Kubernetes.
+  This README proposes a step-by-step method for an Apache web application mini-project deployed using Kubernetes.
   It shows how to deploy, configure, and manage the application within a Kubernetes cluster.
-
-
-Creating a README file for an Apache web application deployed using Kubernetes involves detailing how to deploy, configure, and manage the application within a Kubernetes cluster. This README should include instructions for setting up Kubernetes resources, such as deployments, services, and possibly ingress controllers.
-
-Here’s a template for a README file that covers these aspects:
 
 ---
 
