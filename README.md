@@ -107,20 +107,9 @@ If you encounter any issues use the follwing commands to troubleshoot
   kubectl describe deployment apache-app
   kubectl describe service apache-service
   
-
 - Inspect Events:
   kubectl get events
 
-## Contributing
-
-We welcome contributions! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
 
 
 
-Feel free to adapt this template to fit the specifics of your Apache web application and Kubernetes setup. If there are additional features or details relevant to your project, make sure to include those in the README.
